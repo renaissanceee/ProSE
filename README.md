@@ -1,4 +1,4 @@
-# ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping
+# ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs
 
 <a href="https://arxiv.org/pdf/2611.20885">Paper</a> | <a href="https://github.com/renaissanceee/ProSE">Code</a>
 
